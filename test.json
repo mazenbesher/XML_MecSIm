@@ -1,0 +1,13 @@
+{
+  "description": "WB Johnson Dr at I-435 - bridge repair",
+  "congestion": "generally slow",
+  "point":{
+    "type":"Point",
+    "coordinates":[
+      38.85135,
+      -94.34033
+    ]
+  },
+  "detour":"Take 63rd St to Roe Ave and head south to 67th St",
+  "end": "\/Date(1316217600000)\/"
+}
